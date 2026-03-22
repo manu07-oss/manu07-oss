@@ -37,6 +37,13 @@ currently_working_on:
   - Jenkins CI/CD hands-on projects
   - Python Flask microservice on Kubernetes
   - DevSecOps pipeline with Trivy & SonarQube
+
+currently_learning:
+  - MLOps: MLflow, Kubeflow pipelines
+  - AI/LLM tooling: LangChain, OpenAI APIs
+  - ML model deployment on Kubernetes
+  - Python for ML: numpy, pandas, scikit-learn
+  - Bridging DevOps → MLOps infrastructure
 ```
 
 ---
@@ -115,6 +122,28 @@ currently_working_on:
 
 - Led zero-downtime migration from Windows Server 2012 → 2019
 - Automated IIS deployments with PowerShell — **reduced manual effort by 75%**
+
+---
+
+## 🤖 Currently Learning — MLOps & AI
+
+> Expanding from DevOps → MLOps | Bridging infrastructure expertise with AI/ML workflows
+
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+```
+DevOps background  ──────────────────────────► MLOps/AI  🚀
+  Kubernetes   →   Model serving on K8s
+  CI/CD        →   ML training pipelines
+  Terraform    →   ML infra provisioning
+  Monitoring   →   Model performance tracking
+```
 
 ---
 
